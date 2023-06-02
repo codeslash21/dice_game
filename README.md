@@ -9,13 +9,13 @@ This is a flutter app. This is about rolling a dice. After clicking the `Roll Di
 
 ## Getting Started
 
-To run this app first you have to install following softwares
+#### To run this app first you have to install following softwares
 
 1. Android Studio (and create an android emulator or ios simulator)
 2. VS Code editor (and install the flutter extension)
 3. Flutter SDK (and set the path)
 
-After done with the above steps
+#### After done with the above steps
 
 1. Download the source code and extract it.
 2. Open VS Code in the project folder which is `dice_game`.
@@ -26,4 +26,4 @@ After done with the above steps
 
 ### Demo Video
 
-[!demo]("./assets/dice_game.gif")
+<img src="./assets/dice_game.gif" width="300" height="550"/>
